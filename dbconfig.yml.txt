@@ -1,8 +1,2 @@
 username=ashok
 pwd-abbassit@gmail.com
-jdjjdjdjdj
-<<<<<<< Updated upstream
-xzxcxcxzcc
-=======
-ahashdshdhsd
->>>>>>> Stashed changes
